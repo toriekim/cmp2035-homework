@@ -1,41 +1,37 @@
+
 body {
-    font-family: Arial ;
+    font-family: 'Abril Fatface', cursive;    
     font-size: 15 ;
     background-color: darkcyan;
-    color: darkkhaki;
+    color: aliceblue;
 }
 
 h1 {
-    font-family: impact ;
-    font-size: 40 ;
-    color: darkkhaki; 
+    color: aliceblue; 
     text-transform: capitalize ; 
-    text-align: center ;
+    padding: 15px
 }
 
 h2 {
-    font-family: georgia ;
-    font-size: 30 ; 
-    color: darkgray;
+    color: gold;
     font-style: italic ;
-    text-align: center ;
     border-bottom: 4px double white;
     border-top: 5px solid white;
     padding: 15px
 }
 
 h4 {
-    font-size: 20 ; 
     font-family: helvetica ;
     color: lightcyan;
 
 }
 
 p, figcaption {
+    font-family: 'Open Sans', sans-serif;
     font-style: italic ;
     font-weight: lighter ;
     color: whitesmoke ;
-    
+
 }
 
 img {
@@ -43,6 +39,7 @@ img {
 }
 
 table {
+    font-family: "Open Sans", sans-serif;
     border: 1px solid whitesmoke ;
     text-align: center ;
     margin: 50px auto 50px auto ;
@@ -54,23 +51,31 @@ table {
 }
 
 a:link {
+    font-family: 'Open Sans', sans-serif;
+
     color: aliceblue ;
     text-decoration: none ;
 }
 
 a:hover{
+    font-family: 'Open Sans', sans-serif;
+
     color: gold ;
 }
 
 a:visited{
+    font-family: 'Open Sans', sans-serif;
+
     color: gold ;
 }
 
 ul, ol {
+    font-family: 'Open Sans', sans-serif;
     color:whitesmoke
 }
 
 .title {
-    color: darkkhaki ;
+    font-family: 'Abril Fatface', cursive;   
+    color: aliceblue ;
     font-weight: bold ;
 }
