@@ -34,9 +34,43 @@ h4 {
 p, figcaption {
     font-style: italic ;
     font-weight: lighter ;
+    color: whitesmoke ;
+    
 }
 
 img {
     border: 5px solid aliceblue ;
-    
+}
+
+table {
+    border: 1px solid whitesmoke ;
+    text-align: center ;
+    margin: 50px auto 50px auto ;
+}
+
+.name {
+    font-style: italic ;
+    font-weight: bold ;
+}
+
+a:link {
+    color: aliceblue ;
+    text-decoration: none ;
+}
+
+a:hover{
+    color: gold ;
+}
+
+a:visited{
+    color: gold ;
+}
+
+ul, ol {
+    color:whitesmoke
+}
+
+.title {
+    color: darkkhaki ;
+    font-weight: bold ;
 }
