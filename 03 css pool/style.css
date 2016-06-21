@@ -8,19 +8,25 @@ body {
 h1 {
     font-family: impact ;
     font-size: 40 ;
-    color: darkkhaki;    
+    color: darkkhaki; 
+    text-transform: capitalize ; 
+    text-align: center ;
 }
 
 h2 {
-    font-family: impact ;
+    font-family: georgia ;
     font-size: 30 ; 
     color: darkgray;
     font-style: italic ;
+    text-align: center ;
+    border-bottom: 4px double white;
+    border-top: 5px solid white;
+    padding: 15px
 }
 
 h4 {
     font-size: 20 ; 
-    font-family: arial narrow ;
+    font-family: helvetica ;
     color: lightcyan;
 
 }
