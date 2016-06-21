@@ -1,0 +1,36 @@
+body {
+    font-family: Arial ;
+    font-size: 15 ;
+    background-color: darkcyan;
+    color: darkkhaki;
+}
+
+h1 {
+    font-family: impact ;
+    font-size: 40 ;
+    color: darkkhaki;    
+}
+
+h2 {
+    font-family: impact ;
+    font-size: 30 ; 
+    color: darkgray;
+    font-style: italic ;
+}
+
+h4 {
+    font-size: 20 ; 
+    font-family: arial narrow ;
+    color: lightcyan;
+
+}
+
+p, figcaption {
+    font-style: italic ;
+    font-weight: lighter ;
+}
+
+img {
+    border: 5px solid aliceblue ;
+    
+}
