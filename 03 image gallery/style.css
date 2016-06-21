@@ -1,31 +1,33 @@
 body {
-    font-family: Georgia ;
-    font-size: 12 ;
-    background-color: slategrey;
-    color: white ;
+    font-family: Arial ;
+    font-size: 15 ;
+    background-color: darkcyan;
+    color: darkkhaki;
 }
 
 h1 {
+    font-family: impact ;
     font-size: 40 ;
-    font-style: italic ;
-    color: aliceblue ;    
+    color: darkkhaki;    
 }
 
 h2 {
-    font-family: helvetica neue ;
+    font-family: impact ;
     font-size: 30 ; 
-    color: aliceblue ;
+    color: darkgray;
+    font-style: italic ;
 }
 
 h4 {
     font-size: 20 ; 
-    font-family: helvetica neue ;
-    color: aliceblue ;
+    font-family: arial narrow ;
+    color: lightcyan;
 
 }
 
 p, figcaption {
     font-style: italic ;
+    font-weight: lighter ;
 }
 
 img {
