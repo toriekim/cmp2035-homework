@@ -1,0 +1,9 @@
+Project Proposal
+
+As I continue to gain more knowledge and skills in graphic design, it is becoming increasingly clear that I need a personal and professional website. Everyone these days seem to have one to showcase their resume, their talents, and most importantly, their individuality. My website would fulfill these functions, but also act as a digital portfolio for prospective clients and as a professional blog that would document my creative process. 
+
+Aesthetically, I really want the website to be simple, but stylish with a focus on elegant type. I imagine a “home” page, an “about” page, a portfolio image gallery, and a link to the blog, which will have a more fun, quirky, and colorful feel. The professional website would not change much other than updates to my portfolio. The blog side of things would be updated more frequently to show my creative process, my research, and maybe little thought pieces on visual arts and my personal journey. In some respects, these are two separate websites that are connected through a link. 
+
+For the portfolio, I would love a system in place that would “flip” through the images so the viewer feels like they are flipping through a physical copy. However, this kind of animation and coding might be beyond my abilities. I would definitely have to learn HTML and CSS more in-depth, but maybe this is something I need to learn more about beyond this class and in Intermediate Web Design. The second most challenging thing to do would be to create a fluid navigation system for the website. Visual continuity is also of concern.
+
+Overall, creating a personal website is necessary and I’m confident I can execute most of it with the basic skills that I do have, but it would definitely be a continuing work-in-progress for the future. As long as I get started on it, it’s better than nothing.
