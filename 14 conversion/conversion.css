@@ -1,0 +1,108 @@
+body {
+    margin: 0px;
+    background-color: #002830;
+    background: url(images/Background.png) no-repeat top center;
+/*
+    background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -webkit-background-size: cover;
+*/
+    font-family: Montserrat Light, sans-serif;
+}
+
+#homepage {
+    margin:auto;
+    height: 50%
+    width: 
+}
+
+/* Navigation */
+a {
+    color: #002830;
+    text-decoration: none;
+    font-weight: lighter;
+    padding: 14px;
+}
+
+/*Top Nav Bar */
+
+.navbar {
+    background-color:#f2ede4;
+    width: 300px;
+    height: 40px;
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    text-align: center;
+    -webkit-padding-start: 0px;
+}
+
+.navbar > ul > li {
+    display: inline ;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    letter-spacing: 5px;
+    font-size: .75em;
+}
+
+.navbar > ul {
+    margin-top: 10px;
+    -webkit-padding-start: 0px;
+}
+
+.navbar > ul > li > a:hover {
+    color: #fffbd1;
+    font-weight: bolder;
+    background: #01968e;
+}
+
+/* Footer */
+
+.footer {
+    background-color: #dbf83f;
+    height: 40px;
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    text-align: center;
+}
+
+.footer > ul > li {
+    display: inline;
+    padding-bottom: 14px;
+    letter-spacing: 5px;
+    font-size: .75em;
+}
+
+.footer > ul {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    -webkit-padding-start: 0px;
+}
+
+.footer > ul > li > a:hover {
+    color: #01968e;
+    font-weight: bolder;
+}
+
+/* Home */
+.Logo {
+    float: right;
+    padding: 100 0 100 100;
+    margin-top: 150px;
+}
+
+/* Work */
+.Gallery > ul > li {
+    display: inline;
+    ;
+}
+.Images {
+    align-items: center;}
+.work {
+    clear: both;
+}
+
+/* About */
