@@ -1,20 +1,14 @@
 body {
     margin: 0px;
-    background-color: #002830;
-    background: url(images/Background.png) no-repeat top center;
-/*
+/*    background-color: #002830;*/
+    width: 1366px;
+    background: url(images/Background.png) no-repeat top center ;
+    background-color: #f2ede4;
     background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     -webkit-background-size: cover;
-*/
     font-family: Montserrat Light, sans-serif;
-}
-
-#homepage {
-    margin:auto;
-    height: 50%
-    width: 
 }
 
 /* Navigation */
@@ -53,7 +47,6 @@ a {
 
 .navbar > ul > li > a:hover {
     color: #fffbd1;
-    font-weight: bolder;
     background: #01968e;
 }
 
@@ -84,25 +77,66 @@ a {
 
 .footer > ul > li > a:hover {
     color: #01968e;
-    font-weight: bolder;
 }
 
 /* Home */
 .Logo {
     float: right;
+/*
     padding: 100 0 100 100;
-    margin-top: 150px;
+    margin-right: 10;
+    margin-top: 150px;*/
 }
 
 /* Work */
+.Work {
+    margin-left: 100px;
+    margin-top: 75px;
+}
+
 .Gallery > ul > li {
     display: inline;
-    ;
+    padding-left: 10px;
+    padding-right: 10px;
 }
-.Images {
-    align-items: center;}
+
+.Gallery {
+    margin-top: 100px;
+}
+
 .work {
     clear: both;
 }
 
+#homepage, #workpage, #aboutpage {
+    height: 786px;
+}
+
 /* About */
+.About {
+    margin-left: 100px;
+    margin-top: 75px;
+}
+
+article {
+    margin-left: 200px;
+    margin-top: 25px;
+    margin-right: 25px;
+    font-family: Montserrat;
+    font-weight: 200;
+    max-width: 350px;
+    position: absolute;
+}
+
+h1 {
+    font-size: 1.2em;
+}
+
+#profilepic {
+    position: absolute;
+    right: 200px;
+    width: 400px;
+    
+    
+    
+}
