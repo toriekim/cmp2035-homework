@@ -8,11 +8,17 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     -webkit-background-size: cover;
-    font-family: Montserrat Light, sans-serif;
+/*    font-family: Montserrat Light, sans-serif;*/
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url(Montserrant-Light.otf);
 }
 
 /* Navigation */
 a {
+    font-family: Montserrat;
     color: #002830;
     text-decoration: none;
     font-weight: lighter;
@@ -63,6 +69,8 @@ a {
 }
 
 .footer > ul > li {
+    font-family: Montserrat;
+    font-weight: lighter;
     display: inline;
     padding-bottom: 14px;
     letter-spacing: 5px;
@@ -80,12 +88,11 @@ a {
 }
 
 /* Home */
-.Logo {
-    float: right;
-/*
-    padding: 100 0 100 100;
-    margin-right: 10;
-    margin-top: 150px;*/
+.logo {
+    position: absolute;
+    right: 20px;
+    bottom: 70px;
+    /*    float: right;*/
 }
 
 /* Work */
@@ -119,13 +126,20 @@ a {
 }
 
 article {
-    margin-left: 200px;
+    font-family: Montserrat;
+    font-weight: 100;
+    margin-left: 150px;
     margin-top: 25px;
     margin-right: 25px;
-    font-family: Montserrat;
-    font-weight: 200;
     max-width: 350px;
     position: absolute;
+}
+
+article > p > a {
+    font-family: Montserrat;
+    font-weight: 200;
+    padding-left: 6px;
+    padding-right: 0px;
 }
 
 h1 {
@@ -134,9 +148,6 @@ h1 {
 
 #profilepic {
     position: absolute;
-    right: 200px;
+    right: 150px;
     width: 400px;
-    
-    
-    
 }
